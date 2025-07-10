@@ -41,7 +41,7 @@ Check out my progress and solutions on my [CleverCode profile](https://clevercod
 
 ## 🎓 Education & Strong Foundation
 
-###**Riga State Gymnasium No.1**  
+### Riga State Gymnasium No.1
 *Graduated the best high school in Latvia*  
 - Built a strong foundation in mathematics, computer science, and analytical thinking
 - Excelled in academic competitions and olympiads, especially in informatics and mathematics
