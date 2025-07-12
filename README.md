@@ -75,7 +75,7 @@ My main driver is curiosity, genuine interest and recently desire to earn money.
 
 #### 📚 AI Projects
 
-I have multiple full stack projects that support features like real time notifications, data tracking, API development, and more.
+I have many test and learning projects made for AI Talent programme. 
 
 ---
 
